@@ -57,7 +57,7 @@ Las contribuciones son bienvenidas. Si encuentras algún error o deseas agregar 
 
 ## Imagenes
 
-Pantalla principal ![main](weather_main.png)
+Pantalla principal ![main](main.png)
 
 ## Comandos Útiles
 
