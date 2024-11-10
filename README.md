@@ -24,7 +24,7 @@ Esta aplicación web, construida con ReactJS y Vite, te permite buscar personaje
 
 - **Lucide Icons:** : Iconos personalizados para mejorar la interfaz.
  
-Puedes visitar la plataforma en línea en [https://s02e02-weather-fmg.vercel.app/](https:// vercel.app/)
+Puedes visitar la plataforma en línea en [https://s03e03-rm-fmg.vercel.app/](https://s03e03-rm-fmg.vercel.app/)
 
 ## Requisitos del Sistema
 
