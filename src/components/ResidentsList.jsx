@@ -30,7 +30,7 @@ function ResidentsList({ residents,  resetPage, setResetPage}) {
             return <ResidentCard key={id} url={resident}/>
           })
         ) : (
-          <div className='cards__page'>No recors in this location</div>
+          <div className='cards__page'>🚷No Records in this Location</div>
         )}
       </div>
       <br />
