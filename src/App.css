@@ -18,3 +18,10 @@
      height: 35vh;
    }
  }
+
+ .error {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1rem;
+}

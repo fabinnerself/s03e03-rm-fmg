@@ -15,9 +15,7 @@ function useFetch () {
         console.log("data fech ",error.message)
         
         setError("❌ "+error.message)
-        setTimeout(()=> {
-          setError('')
-        },3000)        
+               
           
       }).finally(() => {
         setLoading(false)

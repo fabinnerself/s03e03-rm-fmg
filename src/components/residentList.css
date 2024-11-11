@@ -3,6 +3,7 @@
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 1.1em;
     padding-left: 2.5em;
+    width: 100%;
   }
 
   .cards__btn{
@@ -16,3 +17,5 @@
   .cards__page {
     color: antiquewhite;
   }
+
+  
